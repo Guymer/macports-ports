@@ -10,7 +10,7 @@ revision            0
 license             BSD
 platforms           {darwin any}
 supported_archs     noarch
-maintainers         {gmx.us:chrischavez @chrstphrchvz} openmaintainer
+maintainers         {gmx.us:chrischavez @chrstphrchvz} {Thomas Guymer @guymer} openmaintainer
 description         EXIF.py - Python interface to the EXIF meta-data
 long_description    Exchangeable Image File Format for Digital Still \
                     Cameras is a meta-information tag that can be embedded \
@@ -22,4 +22,4 @@ checksums           rmd160  5c48c549c078ebe1aacf835c5467e34b01506eb6 \
                     sha256  9f998f80d3062741c976dfc4fd033424bc40932937994e4d2181eb70c4b6aedd \
                     size    56552
 
-python.versions     310 311 312 313
+python.versions     310 311 312 313 314
